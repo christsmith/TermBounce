@@ -1,7 +1,7 @@
 TermBounce
 Christopher Smith
 
-TermBounce is just a goofly thing I wrote after a rough exam in first year engineering. It prints several characters bouncing around the edges of the terminal screen.
+TermBounce is just a goofy thing I wrote after a rough exam in first year engineering. It prints several characters bouncing around the edges of the terminal screen.
 
 compile with a make command and run the resulting TermBounce excecutable.
 
