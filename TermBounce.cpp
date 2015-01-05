@@ -9,7 +9,7 @@
 using namespace std;
 //CHANGE THESE NUMBERS ------------------------------
 const int width = 80;//width of the grid
-const int hight = 50;//hight of the grid
+const int hight = 22;//hight of the grid
 const char EMPTY = ' ';//dont change this one actually (unless you really want to)
 const int BALL_NUM = 10;//number of objects boucing
 //------------------------------------------------  
